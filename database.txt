@@ -1,0 +1,3 @@
+2
+Leo_Tolstoy Piece_and_war 1000 1756 1
+Alex_Pushkin Ruslan_i_Ludmila 1200 1700 1
